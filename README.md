@@ -1,9 +1,21 @@
-
-  <h2 align="center">
-     Página para compra de um fone de ouvido
-        <br />
-  		<br />
-  </h2>
-  <p>
-  	<img src="https://i.imgur.com/dqxofgN.png" />
-	</p>
+<h2 align="center">
+	Desktop
+ <br />
+ <br />
+</h2>
+<p>
+  <img src="https://i.imgur.com/dqxofgN.png" />
+</p>
+<br />
+<br />
+<br />
+<br />
+<h2 align="center">
+	Mobile
+ <br />
+ <br />
+</h2>
+<p>
+  <img src="https://i.imgur.com/K0xINEr.png" />
+  <img src="https://i.imgur.com/FLPuREv.png" />
+</p>
