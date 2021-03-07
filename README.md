@@ -1,7 +1,7 @@
 
-  <p align="center">
+  <h2 align="center">
      Página para compra de um fone de ouvido
         <br />
   		<br />
-  </p>
+  </h2>
 </p>
