@@ -4,4 +4,6 @@
         <br />
   		<br />
   </h2>
-</p>
+  <p>
+  	<img src="https://i.imgur.com/dqxofgN.png" />
+	</p>
